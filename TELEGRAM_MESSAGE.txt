@@ -1,0 +1,15 @@
+Website Report KW 16
+
+EXPAND B2B (expand-b2b.de)
+• Besucher: 47 (7 Tage)
+• Top-Quelle: Direct (76%)
+• Top-Seite: / (46 Aufrufe)
+• DACH: 89%
+
+SANTOX (santox.com)
+• Besucher: 117 (7 Tage)
+• Top-Quelle: Google (74%)
+• Top-Seite: /geraetekoffer/geraetegehaeuse (80 Aufrufe)
+• DACH: 94%
+
+Voller Report: github.com/expand-b2b/website-performance-report
