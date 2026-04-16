@@ -4,7 +4,7 @@
 ## EXPAND B2B (expand-b2b.de)
 **Zeitraum:** 7d
 
-### Ueberblick
+### Überblick
 | Kennzahl | Wert |
 |---|---|
 | Besucher gesamt | 47 |
@@ -41,7 +41,7 @@
 | `/impressum/` | 3 | 6,5% |
 | `/datenschutz/` | 1 | 2,2% |
 
-### Laender
+### Länder
 | Land | Besucher | Anteil |
 |---|---|---|
 | Germany | 35 | 76,1% |
@@ -58,7 +58,7 @@
 ## SANTOX (santox.com)
 **Zeitraum:** 7d
 
-### Ueberblick
+### Überblick
 | Kennzahl | Wert |
 |---|---|
 | Besucher gesamt | 117 |
@@ -101,7 +101,7 @@
 | `/gehaeusetechnik` | 3 | 2,6% |
 | `/gehaeusetechnik/s-9000/kunststoffgehaeuse` | 3 | 2,6% |
 
-### Laender
+### Länder
 | Land | Besucher | Anteil |
 |---|---|---|
 | Germany | 95 | 81,2% |
